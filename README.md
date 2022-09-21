@@ -17,3 +17,18 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Randomisation and Python Lists
 - For more info [here](Day4/Day4.md)
 
+# Day 5
+- Python Loops
+- For more info [here](Day5/Day5.md)
+
+# Day 6
+- Python functions
+- For more info [here](Day6/Day6.md)
+
+# Day 7
+- Hangman Game
+- For more info [here](Day7/Day7.md)
+
+# Day 8
+- Function parameters and Caesar Cipher
+- For more info [here](Day8/Day8.md)
