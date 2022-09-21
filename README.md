@@ -57,3 +57,20 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Higher-Lower game 
 - For more info [here](Day14/Day14.md)
 
+# Day 15 
+- Local environment setup and the coffee machine program
+- For more info [here](Day15/Day15.md)
+
+# Day 16
+- Object-Oriented Programming and Packages
+- For more info [here](Day16/Day16.md)
+
+# Day 17
+- Benefits of OOP
+- For more info [here](Day17/Day17.md)
+
+# Day 18
+- turtle and GUI
+- For more info [here](Day18/Day18.md)
+
+
