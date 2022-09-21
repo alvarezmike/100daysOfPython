@@ -73,4 +73,29 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - turtle and GUI
 - For more info [here](Day18/Day18.md)
 
+# Day 19
+- Instances, State and Higher order functions
+- For more info [here](Day19/Day19.md)
+
+# Day 20
+- Build the snake game part 1: Animation/Coordinates
+- For more info [here](Day20/Day20.md)
+
+# Day 21
+- Build the snake game part 2: Inheritance and list slicing
+- For more info [here](Day21/Day21.md)
+
+# Day 22
+- Build Pong; The Famous Arcade Game
+- For more info [here](Day22/Day22.md)
+
+# Day 23
+- The Turtle Crossing Capstone Project
+- For more info [here](Day23/Day23.md)
+
+# Day 24
+- Files, directories, and paths
+- For more info [here](Day24/Day24.md)
+
+
 
