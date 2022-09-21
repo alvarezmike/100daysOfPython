@@ -32,3 +32,28 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 # Day 8
 - Function parameters and Caesar Cipher
 - For more info [here](Day8/Day8.md)
+
+# Day 9
+- Dictionaries, Nesting and the secret auction
+- For more info [here](Day9/Day9.md)
+
+# Day 10
+- Functions with outputs
+- For more info [here](Day10/Day10.md)
+
+# Day 11
+- The Blackjack capstone project
+- For more info [here](Day11/Day11.md)
+
+# Day 12
+- Scope and number guessing game
+- For more info [here](Day12/Day12.md)
+
+# Day 13
+- Debugging: How to find and fix errors
+- For more info [here](Day13/Day13.md)
+
+# Day 14
+- Higher-Lower game 
+- For more info [here](Day14/Day14.md)
+
