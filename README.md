@@ -97,5 +97,13 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Files, directories, and paths
 - For more info [here](Day24/Day24.md)
 
+# Day 25
+- Working with CSV data and the pandas library
+- For more info [here](Day25/Day25.md)
+
+# Day 26
+- List comprehension and the NATO Alphabet
+- For more info [here](Day26/Day26.md)
+
 
 
