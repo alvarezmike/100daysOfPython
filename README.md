@@ -105,5 +105,15 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - List comprehension and the NATO Alphabet
 - For more info [here](Day26/Day26.md)
 
+# Day 27
+- Tkinter, *args, **kwargs, and GUI program
+- For more info [here](Day27/Day27.md)
+
+# Day 28
+- Tkinter, Dynamic Typing and The Pomodoro GUI Application
+- For more info [here](Day28/Day28.md)
+
+
+
 
 
