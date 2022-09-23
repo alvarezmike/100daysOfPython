@@ -113,6 +113,16 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Tkinter, Dynamic Typing and The Pomodoro GUI Application
 - For more info [here](Day28/Day28.md)
 
+# Day 29
+- Building Password manager GUI App tkinter
+- For more info [here](Day29/Day29.md)
+
+# Day 30
+- Errors, Exceptions and JSON data
+- For more info [here](Day30/Day30.md)
+
+
+
 
 
 
