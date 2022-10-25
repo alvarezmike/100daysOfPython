@@ -1,3 +1,6 @@
+# Demo Video
+https://user-images.githubusercontent.com/62731591/197655918-a8304899-1980-4614-a3e8-717445190573.mp4
+
 # Day 30
 - JSON data
 - Improving Password Manager GUI
@@ -18,7 +21,3 @@
 - Created function find_password() that gets triggered when  search-button is pressed
 - JSON format
 - Catch exceptions that might occur to access data.json
-
-# Demo Video
-https://user-images.githubusercontent.com/62731591/197655918-a8304899-1980-4614-a3e8-717445190573.mp4
-
