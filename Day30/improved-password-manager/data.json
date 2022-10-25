@@ -1,0 +1,18 @@
+{
+    "Robinhood": {
+        "email": "example@email.com",
+        "password": "(!NvSe4FU3fyMJ"
+    },
+    "Amazon": {
+        "email": "example@email.com",
+        "password": "dV9*&2x9q!+AfwAJp2"
+    },
+    "Ebay": {
+        "email": "example@email.com",
+        "password": "IcanWriteMyOwn"
+    },
+    "Twitter": {
+        "email": "example@email.com",
+        "password": "3+cLIh80!mQSR"
+    }
+}
