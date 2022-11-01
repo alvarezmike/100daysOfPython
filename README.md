@@ -121,7 +121,9 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Errors, Exceptions and JSON data
 - For more info [here](Day30/Day30.md)
 
-
+# Day 31 
+- Flash card app capstone project
+- For more info [here](Day31/Day31.md)
 
 
 
