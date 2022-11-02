@@ -125,6 +125,12 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Flash card app capstone project
 - For more info [here](Day31/Day31.md)
 
+# Day 32
+- Intermediate+ Send Email(smtplib) & Manage Dates(datetime)
+- For more info [here](Day32/Day32.md)
+
+
+
 
 
 
