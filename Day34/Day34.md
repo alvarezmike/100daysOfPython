@@ -11,6 +11,6 @@
 -type hints are a way to specify the expected data type of variable
 
 -Can also be used on functions
-**Example**
-```def greeting(name:str) -> str:
-  return "Hello" + name```
+- **Example**
+`def greeting(name:str) -> str:
+  return "Hello" + name`
