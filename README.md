@@ -134,6 +134,9 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier
 - For more info [here](Day33/Day33.md)
 
+# Day 34 
+- Intermediate+ API Practice Creating a GUI Quiz App
+- For more info [here](Day34/Day34.md)
 
 
 
