@@ -138,6 +138,10 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - Intermediate+ API Practice Creating a GUI Quiz App
 - For more info [here](Day34/Day34.md)
 
+# Day 35
+- Intermediat+ Keys, Authentication & Environment Variables: Send SMS
+- For more info [here](Day35/Day35.md)
+
 
 
 
