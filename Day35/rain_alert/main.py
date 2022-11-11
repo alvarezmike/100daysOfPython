@@ -25,7 +25,7 @@ will_rain = False
 print(weather_data)
 
 for i in weather_data:
-    if i < 900:
+    if i < 700:
         will_rain = True
 
 if will_rain:
