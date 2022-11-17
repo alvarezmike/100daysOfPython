@@ -139,10 +139,12 @@ My journey to complete 100 days of code course from Udemy by Angela Yu.
 - For more info [here](Day34/Day34.md)
 
 # Day 35
-- Intermediat+ Keys, Authentication & Environment Variables: Send SMS
+- Intermediate+ Keys, Authentication & Environment Variables: Send SMS
 - For more info [here](Day35/Day35.md)
 
-
+# Day 36
+- Intermediate+ Stock trading news alert project
+- For more info [here](Day36/Day36.md)
 
 
 
