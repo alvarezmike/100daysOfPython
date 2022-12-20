@@ -1,5 +1,5 @@
-# 100daysOfPython
-My journey to complete 100 days of code course from Udemy by Angela Yu.
+# 35daysOfPython
+Documenting my journey to complete 35 days of code in Python. I will be creating scripts, desktop applications, and games.
 
 # Day 1
 - Learning the basics of Python (Syntax, how to assign variables, user input)
